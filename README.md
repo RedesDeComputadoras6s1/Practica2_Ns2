@@ -1,7 +1,8 @@
 # Ejemplo que nos dio guillen pero comentado:
 Basicamente es lo que yo entendi, si pueden mejorenlo.
 
-#se crea el objeto simulador
+
+>#se crea el objeto simulador
 set ns [new Simulator]
 
 #Seleccionar colores
@@ -105,5 +106,4 @@ $ns at 4.5 "$cbr2 stop"
 $ns at 5.0 "finish"
 
 #Comenzar simulacion
-$ns run
-
+$ns run<
