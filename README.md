@@ -1,10 +1,10 @@
 # Ejemplo que nos dio guillen pero comentado:
 Basicamente es lo que yo entendi, si pueden mejorenlo.
 
-# se crea el objeto simulador
+#se crea el objeto simulador
 set ns [new Simulator]
 
-# Seleccionar colores
+#Seleccionar colores
 $ns color 1 Green
 $ns color 2 Yellow
 $ns color 3 Red
